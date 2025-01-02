@@ -10,4 +10,6 @@ first
 for generate dns you can use below function
 
 def generate_ipv4()
+
+
     return '.'.join(f'random.randint(0,255)'for _ in rang(4))
