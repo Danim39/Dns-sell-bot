@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 import os
-bot=telebot.TeleBot('7730874141:AAFIngaH9jf2ocNdiCZlp_LCRpyYTlYx3aI')
+bot=telebot.TeleBot('Your bot token')
 
 list=['87.232.49.136', '218.102.181.63', '49.159.134.140', '36.64.247.206', '101.195.139.169', '119.196.102.177', '101.42.182.112', '168.70.52.129', '3.46.61.190', '198.224.185.130']
 
